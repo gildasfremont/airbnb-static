@@ -1,0 +1,24 @@
+abel:
+  owner_name: Abel Lefou
+  picture: "card-paris.jpg"
+  owner_picture: abel.png
+  name: Abel's home
+  summary: Charming room in Montmartre
+  city: Paris, France
+  wifi: true
+luc:
+  owner_name: Luc Lemalade
+  picture: "card-london.jpeg"
+  owner_picture: luc.png
+  name: Luc's home
+  summary: Nice flat in Piccadilly
+  city: London, UK
+  wifi: false
+gildas:
+  owner_name: Gildas Letaré
+  picture: card-brussels.jpeg
+  owner_picture: gildas.png
+  name: Gildas' home
+  summary: "\"What a house !\""
+  city: Brussels, Belgium
+  wifi: false
